@@ -1,0 +1,16 @@
+{
+  "name": "Propuesta Especial",
+  "short_name": "Propuesta",
+  "description": "Una propuesta muy especial",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff69b4",
+  "icons": [
+    {
+      "src": "https://api.iconify.design/ph:heart-fill.svg?color=%23ff69b4",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
