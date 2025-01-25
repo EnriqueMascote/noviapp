@@ -1,3 +1,3 @@
 # noviapp
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/EnriqueMascote/noviapp)
+edit this file

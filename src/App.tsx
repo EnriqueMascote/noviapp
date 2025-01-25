@@ -138,7 +138,7 @@ export default function App() {
         {selected === "si" && (
           <div className="mt-8 p-4 bg-pink-50 rounded-lg">
             <p className="text-xl text-pink-600 font-medium">
-              ¡Te amo! 💝
+              ¡Dame un besito pues!¡Te amo! 💝
             </p>
           </div>
         )}
